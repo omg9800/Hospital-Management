@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import "./components/style.scss";
-import { Button } from "@material-ui/core";
 import { Switch, Route } from "react-router";
 import Home from "./components/home";
 import Menu from "./components/staff/menu";
